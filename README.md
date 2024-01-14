@@ -4,6 +4,7 @@ Welcome to BoutiqueBuzz, a platform dedicated to fashion enthusiasts where users
 
 ## Table of Contents
 
+- [Code Repositories](#code-repositories)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -12,6 +13,16 @@ Welcome to BoutiqueBuzz, a platform dedicated to fashion enthusiasts where users
 - [Demo](#demo)
 - [License](#license)
 - [Contact](#contact)
+
+## Code Repositories
+
+This project is divided into separate repositories for the backend and frontend. You can find the source code for each component in the following repositories:
+
+- **Backend Repository:**
+  - [Link to Backend Repository](https://github.com/VeroniqueDM/boutiqueBuzz-backEnd)
+
+- **Frontend Repository:**
+  - [Link to Frontend Repository](https://github.com/VeroniqueDM/boutiqueBuzz-frontEnd)
 
 ## Features
 
